@@ -1,3 +1,4 @@
+const node = package.json
 const { table } = require('console');
 const Discord = require('discord.js');
 const client = new Discord.Client();
